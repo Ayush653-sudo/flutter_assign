@@ -9,4 +9,7 @@ A new Flutter project.
 4)Fetched data from data.json file
 5)horizontal scrollable grid card view.
 
+## Screen Shots
 
+## 1)
+![Screenshot (44)](https://github.com/Ayush653-sudo/flutter_assign/assets/89296044/078d0f9b-7aba-43b5-a6db-e201e37dbc84)
